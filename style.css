@@ -1,0 +1,27 @@
+.Cajero {
+    width: 400px;
+}
+
+html {
+   
+   
+ background-color:blue;
+}
+
+input {
+
+    height: 40px;
+    background-color:#555;
+    color: aliceblue;
+}
+
+.salir {
+
+    width: 100px;
+    height: 40px;
+    margin-top: 50px;
+    margin-left: 20px;
+    background-color: blue;
+    color: whitesmoke;
+}
+
